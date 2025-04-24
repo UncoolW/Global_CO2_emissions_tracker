@@ -42,7 +42,7 @@ Built as part of my 2-week internship project for visualizing and analyzing real
 ##  Citation
 
 Dataset Source:
-Our World in Data (OWID) – CO₂ and Greenhouse Gas Emissions Dataset.
+- Our World in Data (OWID) – CO₂ and Greenhouse Gas Emissions Dataset.
 https://github.com/owid/co2-data
-Citation: Hannah Ritchie and Max Roser (2024) – "CO₂ and Greenhouse Gas Emissions". Published online at OurWorldInData.org.
-Licensed under Creative Commons BY 4.0.
+- Citation: Hannah Ritchie and Max Roser (2024) – "CO₂ and Greenhouse Gas Emissions". Published online at OurWorldInData.org.
+- Licensed under Creative Commons BY 4.0.
