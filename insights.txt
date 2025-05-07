@@ -4,19 +4,16 @@ Source: https://github.com/owid/co2-data (Licensed under Creative Commons BY 4.0
 
 INSIGHTS:
 
-1. Global Emissions Trend  
+1. 🌐 Global Emissions Trend  
 Total CO₂ emissions have increased steadily since 2000, with a dip in 2020 due to COVID-19. However, emissions rebounded swiftly post-pandemic, revealing that deeper energy reforms are required beyond short-term interruptions.
 
-2. Geographic Distribution  
+2. 🌍 Geographic Distribution  
 China, the United States, and India account for over half of global emissions. Interestingly, smaller countries often have much higher per capita emissions, which highlights the importance of looking beyond just totals when designing climate policies.
 
-3. Fuel Type Contribution  
+3. 🔥 Fuel Type Contribution  
 Coal remains the highest contributor to global emissions, followed by oil and gas. While renewable energy capacity is growing, fossil fuels still dominate the energy sector in most countries.
 
-4. Country-Specific Emissions Mix  
+4. 📜Country-Specific Emissions Mix  
 The emissions mix varies significantly: China emits the most from coal, the U.S. from oil, and Russia from gas. This underscores the need for decarbonization plans tailored to each country’s energy dependency.
-
-5. Key Takeaway  
+5. 🧩 Key Takeaway  
 Global climate goals require targeted insights. A data-driven breakdown of emissions by fuel and geography offers policymakers clarity and urgency on where action is most needed.
-
-— End of Insights —
